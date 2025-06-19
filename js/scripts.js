@@ -37,7 +37,7 @@ function groomAccountNumber(){
 	textarea.select();
 	document.execCommand("copy");
 	document.body.removeChild(textarea);
-	alert("신랑의 계좌번호가 복사되었습니다.\n00000000 카카오뱅크")
+	alert("신랑의 계좌번호가 복사되었습니다.\n58691018272907 KEB하나")
 }
 
 // 아버님 계좌번호 복사 
